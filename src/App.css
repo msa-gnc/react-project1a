@@ -1,0 +1,14 @@
+*{margin: 0;
+padding: 0;
+}
+
+.App{
+  text-align: center;
+  background-color: aqua;
+  font-size: large;
+}
+
+.helloPicture{
+  width: 300px;
+
+}
